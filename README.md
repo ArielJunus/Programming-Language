@@ -7,7 +7,7 @@
 ## 課程筆記區:grinning:
 
 ## 作業連結區:confused:
-[HW_1](HW_1/Homework_1.ipynb)
+[HW_1](HW_1/Homework_1.ipynb) data set homework !
 
 ## 專題連結區:thinking:
 
