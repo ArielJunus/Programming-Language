@@ -11,7 +11,9 @@
 
 [HW_2](Homework_2.ipynb) data set homework 2 !  
 
-[HW_3](PL_HW_3/PL_HW_3.ipynb) data set homework 3 Data Scraping !
+[HW_3](PL_HW_3/PL_HW_3.ipynb) data set homework 3 Data Scraping !  
+
+[HW_4](PL_HW_4/PLHW4.ipynb) & [MEDIUM](https://medium.com/@arieljie19/popular-job-title-top-50-468f5feb36f7) Top 50 Job Title!
 
 ## 專題連結區:thinking:
 
